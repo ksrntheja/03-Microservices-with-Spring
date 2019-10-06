@@ -4,7 +4,6 @@
 /movie-catalog-service/.mvn/wrapper/maven-wrapper.properties
 /movie-catalog-service/mvnw
 /movie-catalog-service/mvnw.cmd
-/movie-catalog-service/.mvn/wrapper/maven-wrapper.jar
 /movie-info-service.zip
 /movie-info-service/.mvn/wrapper/MavenWrapperDownloader.java
 /movie-info-service/.mvn/wrapper/maven-wrapper.jar
@@ -17,4 +16,3 @@
 /ratings-data-service/.mvn/wrapper/maven-wrapper.properties
 /ratings-data-service/mvnw
 /ratings-data-service/mvnw.cmd
-/movie-catalog-service/.mvn/wrapper/maven-wrapper.jar
