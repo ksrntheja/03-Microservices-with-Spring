@@ -35,5 +35,5 @@ public class CatalogItem {
     public void setRating(int rating) {
         this.rating = rating;
     }
-    
+
 }
